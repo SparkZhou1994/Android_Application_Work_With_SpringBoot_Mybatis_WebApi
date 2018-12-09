@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="ButtonInput">录入成绩</string>
+    <string name="ButtonSelect">查询成绩</string>
+    <string name="ButtonSelectOnOff">开放查询</string>
+    <string name="TextViewSelectOff">当前查询已关闭，是否开启查询</string>
+    <string name="TextViewSelectOn">当前查询已开启，是否关闭查询</string>
+    <string name="ButtonOff">关闭</string>
+    <string name="ButtonOn">开启</string>
+    <string name="ButtonBack">返回</string>
+    <string name="TextViewInput">请输入学生成绩：</string>
+    <string name="TextViewNum">学号：</string>
+    <string name="TextViewScr">成绩：</string>
+    <string name="TextViewSelect">查询学生成绩</string>
+    <string name="TextViewSelectNum">请输入学号：</string>
+    <string name="ButtonSelectScr">查询</string>\
+    <string name="ButtonSelectNext">下一个</string>
+
+
+</resources>
